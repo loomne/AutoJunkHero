@@ -1,4 +1,4 @@
-# AutoJunkHero
+# AutoJunkHero ?coming_soon?
 
 AutoJunkHero is a new version of old https://github.com/loomne/AutoJunk_cpp_csharp.
 
